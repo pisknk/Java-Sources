@@ -1,2 +1,3 @@
-# Java-Sources
+# C Sources
 Things I've coded in Java during 1st Year of College.
+Feel free to use these as your reference, debugging guide. May have bugs or it won't work...
